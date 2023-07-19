@@ -8,4 +8,4 @@ This project is a simple front-end implementation of an Amazon clone. It replica
 
 
 
-LIVE: https://amazon-clone.bunnykudala.repl.co/
+LIVE: https://kudala-bharani.github.io/Amazon-Clone/
